@@ -25,3 +25,15 @@ body {
     text-wrap: balance;
   }
 }
+
+/* TO-DO: move these styles to designSystem */
+h1 {
+  font-size: 18px;
+}
+
+button {
+  background-color: pink;
+  color: black;
+  border-radius: 4px;
+  padding: 2px;
+}
